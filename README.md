@@ -36,7 +36,7 @@ This project showcases:
   
 ### Home Page
 
-![Home Page](‎https://github.com/rahul-tech-eng/Advanced-CSS3-Responsive-Architecture/blob/7db9d9a8b95fb5e6309e5dc22c48045bd79235ac/photos/2026-06-13%20(1).png)
+![Home Page](https://github.com/rahul-tech-eng/Advanced-CSS3-Responsive-Architecture/blob/b5f36c1dcaaed40e91ce88fba2aa86c7a2d7da02/photos/2026-06-13%20(1).png‎)
 
 ## Live Demo
 
